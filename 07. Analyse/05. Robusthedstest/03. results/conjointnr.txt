@@ -1,0 +1,386 @@
+
+\begin{tabular}{l|l|l|r|r|r|r|l}
+\hline
+statistic & outcome & level & estimate & std.error & z & p & BY\\
+\hline
+mm & choice & Mand & 0.46 & 0.02 & -2.38 & 0.02 & Opgave nr. 1\\
+\hline
+mm & choice & Kvinde & 0.54 & 0.02 & 2.38 & 0.02 & Opgave nr. 1\\
+\hline
+mm & choice & 25 år & 0.52 & 0.02 & 1.03 & 0.30 & Opgave nr. 1\\
+\hline
+mm & choice & 31 år & 0.51 & 0.03 & 0.50 & 0.62 & Opgave nr. 1\\
+\hline
+mm & choice & 37 år & 0.55 & 0.02 & 2.11 & 0.04 & Opgave nr. 1\\
+\hline
+mm & choice & 43 år & 0.49 & 0.03 & -0.53 & 0.60 & Opgave nr. 1\\
+\hline
+mm & choice & 55 år & 0.42 & 0.03 & -3.32 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Ingen formel uddannelse & 0.32 & 0.03 & -5.69 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Grundskole & 0.43 & 0.03 & -2.50 & 0.01 & Opgave nr. 1\\
+\hline
+mm & choice & Gymnasial uddannelse & 0.54 & 0.03 & 1.51 & 0.13 & Opgave nr. 1\\
+\hline
+mm & choice & Erhvervsfaglig uddannelse & 0.53 & 0.03 & 1.24 & 0.21 & Opgave nr. 1\\
+\hline
+mm & choice & Kort videregående uddannelse & 0.53 & 0.03 & 1.01 & 0.31 & Opgave nr. 1\\
+\hline
+mm & choice & Lang videregående uddannelse & 0.57 & 0.03 & 2.72 & 0.01 & Opgave nr. 1\\
+\hline
+mm & choice & Arbejdsløs & 0.32 & 0.03 & -5.88 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Tjener & 0.47 & 0.03 & -0.78 & 0.44 & Opgave nr. 1\\
+\hline
+mm & choice & Kok & 0.52 & 0.03 & 0.66 & 0.51 & Opgave nr. 1\\
+\hline
+mm & choice & Mekaniker & 0.50 & 0.03 & 0.00 & 1.00 & Opgave nr. 1\\
+\hline
+mm & choice & Butiksassistent & 0.44 & 0.03 & -1.68 & 0.09 & Opgave nr. 1\\
+\hline
+mm & choice & Salgskonsulent & 0.44 & 0.03 & -1.77 & 0.08 & Opgave nr. 1\\
+\hline
+mm & choice & Regnskabsmedarbejder & 0.58 & 0.04 & 2.19 & 0.03 & Opgave nr. 1\\
+\hline
+mm & choice & It-medarbejder & 0.61 & 0.04 & 3.14 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Analytiker & 0.62 & 0.04 & 3.08 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Ingeniør & 0.72 & 0.08 & 2.75 & 0.01 & Opgave nr. 1\\
+\hline
+mm & choice & Læge & 0.70 & 0.08 & 2.46 & 0.01 & Opgave nr. 1\\
+\hline
+mm & choice & Taler og forstår ikke engelsk & 0.38 & 0.02 & -5.80 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Forstår, men taler ikke engelsk & 0.45 & 0.02 & -2.19 & 0.03 & Opgave nr. 1\\
+\hline
+mm & choice & Kan føre en samtale på engelsk & 0.58 & 0.02 & 3.81 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Taler flydende engelsk & 0.60 & 0.02 & 4.44 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Polen & 0.56 & 0.03 & 1.78 & 0.07 & Opgave nr. 1\\
+\hline
+mm & choice & Tyskland & 0.57 & 0.03 & 2.39 & 0.02 & Opgave nr. 1\\
+\hline
+mm & choice & Somalia & 0.39 & 0.03 & -3.76 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Kina & 0.49 & 0.03 & -0.34 & 0.73 & Opgave nr. 1\\
+\hline
+mm & choice & Syrien & 0.52 & 0.03 & 0.58 & 0.56 & Opgave nr. 1\\
+\hline
+mm & choice & Tyrkiet & 0.48 & 0.03 & -0.73 & 0.47 & Opgave nr. 1\\
+\hline
+mm & choice & Irak & 0.50 & 0.03 & 0.06 & 0.95 & Opgave nr. 1\\
+\hline
+mm & choice & Ikke troende & 0.56 & 0.02 & 3.47 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Muslim & 0.35 & 0.02 & -7.92 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Kristen & 0.58 & 0.02 & 4.06 & 0.00 & Opgave nr. 1\\
+\hline
+mm & choice & Mand & 0.46 & 0.02 & -2.31 & 0.02 & Opgave nr. 2\\
+\hline
+mm & choice & Kvinde & 0.54 & 0.02 & 2.26 & 0.02 & Opgave nr. 2\\
+\hline
+mm & choice & 25 år & 0.50 & 0.03 & 0.10 & 0.92 & Opgave nr. 2\\
+\hline
+mm & choice & 31 år & 0.51 & 0.02 & 0.40 & 0.69 & Opgave nr. 2\\
+\hline
+mm & choice & 37 år & 0.53 & 0.03 & 1.06 & 0.29 & Opgave nr. 2\\
+\hline
+mm & choice & 43 år & 0.52 & 0.02 & 0.64 & 0.52 & Opgave nr. 2\\
+\hline
+mm & choice & 55 år & 0.45 & 0.02 & -2.20 & 0.03 & Opgave nr. 2\\
+\hline
+mm & choice & Ingen formel uddannelse & 0.39 & 0.03 & -3.12 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Grundskole & 0.47 & 0.03 & -0.94 & 0.35 & Opgave nr. 2\\
+\hline
+mm & choice & Gymnasial uddannelse & 0.51 & 0.03 & 0.26 & 0.79 & Opgave nr. 2\\
+\hline
+mm & choice & Erhvervsfaglig uddannelse & 0.52 & 0.03 & 0.63 & 0.53 & Opgave nr. 2\\
+\hline
+mm & choice & Kort videregående uddannelse & 0.47 & 0.03 & -1.27 & 0.20 & Opgave nr. 2\\
+\hline
+mm & choice & Lang videregående uddannelse & 0.58 & 0.02 & 3.38 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Arbejdsløs & 0.34 & 0.03 & -5.06 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Tjener & 0.44 & 0.03 & -2.01 & 0.04 & Opgave nr. 2\\
+\hline
+mm & choice & Kok & 0.52 & 0.03 & 0.66 & 0.51 & Opgave nr. 2\\
+\hline
+mm & choice & Mekaniker & 0.55 & 0.03 & 1.75 & 0.08 & Opgave nr. 2\\
+\hline
+mm & choice & Butiksassistent & 0.48 & 0.03 & -0.69 & 0.49 & Opgave nr. 2\\
+\hline
+mm & choice & Salgskonsulent & 0.47 & 0.03 & -0.76 & 0.45 & Opgave nr. 2\\
+\hline
+mm & choice & Regnskabsmedarbejder & 0.50 & 0.04 & 0.07 & 0.94 & Opgave nr. 2\\
+\hline
+mm & choice & It-medarbejder & 0.60 & 0.04 & 2.81 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Analytiker & 0.56 & 0.04 & 1.61 & 0.11 & Opgave nr. 2\\
+\hline
+mm & choice & Ingeniør & 0.60 & 0.07 & 1.40 & 0.16 & Opgave nr. 2\\
+\hline
+mm & choice & Læge & 0.80 & 0.08 & 3.75 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Taler og forstår ikke engelsk & 0.37 & 0.02 & -5.77 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Forstår, men taler ikke engelsk & 0.44 & 0.02 & -2.50 & 0.01 & Opgave nr. 2\\
+\hline
+mm & choice & Kan føre en samtale på engelsk & 0.54 & 0.02 & 1.84 & 0.07 & Opgave nr. 2\\
+\hline
+mm & choice & Taler flydende engelsk & 0.63 & 0.02 & 6.28 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Polen & 0.56 & 0.03 & 2.08 & 0.04 & Opgave nr. 2\\
+\hline
+mm & choice & Tyskland & 0.64 & 0.03 & 4.87 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Somalia & 0.36 & 0.03 & -4.72 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Kina & 0.50 & 0.03 & -0.12 & 0.90 & Opgave nr. 2\\
+\hline
+mm & choice & Syrien & 0.50 & 0.03 & 0.00 & 1.00 & Opgave nr. 2\\
+\hline
+mm & choice & Tyrkiet & 0.47 & 0.03 & -1.02 & 0.31 & Opgave nr. 2\\
+\hline
+mm & choice & Irak & 0.46 & 0.03 & -1.27 & 0.21 & Opgave nr. 2\\
+\hline
+mm & choice & Ikke troende & 0.57 & 0.02 & 3.52 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Muslim & 0.40 & 0.02 & -5.11 & 0.00 & Opgave nr. 2\\
+\hline
+mm & choice & Kristen & 0.53 & 0.02 & 1.65 & 0.10 & Opgave nr. 2\\
+\hline
+mm & choice & Mand & 0.49 & 0.02 & -0.67 & 0.51 & Opgave nr. 3\\
+\hline
+mm & choice & Kvinde & 0.51 & 0.02 & 0.66 & 0.51 & Opgave nr. 3\\
+\hline
+mm & choice & 25 år & 0.56 & 0.02 & 2.50 & 0.01 & Opgave nr. 3\\
+\hline
+mm & choice & 31 år & 0.47 & 0.02 & -1.14 & 0.26 & Opgave nr. 3\\
+\hline
+mm & choice & 37 år & 0.51 & 0.03 & 0.25 & 0.80 & Opgave nr. 3\\
+\hline
+mm & choice & 43 år & 0.52 & 0.03 & 0.66 & 0.51 & Opgave nr. 3\\
+\hline
+mm & choice & 55 år & 0.44 & 0.03 & -2.33 & 0.02 & Opgave nr. 3\\
+\hline
+mm & choice & Ingen formel uddannelse & 0.40 & 0.03 & -3.40 & 0.00 & Opgave nr. 3\\
+\hline
+mm & choice & Grundskole & 0.45 & 0.03 & -1.77 & 0.08 & Opgave nr. 3\\
+\hline
+mm & choice & Gymnasial uddannelse & 0.53 & 0.03 & 1.05 & 0.29 & Opgave nr. 3\\
+\hline
+mm & choice & Erhvervsfaglig uddannelse & 0.53 & 0.03 & 1.14 & 0.25 & Opgave nr. 3\\
+\hline
+mm & choice & Kort videregående uddannelse & 0.47 & 0.03 & -1.25 & 0.21 & Opgave nr. 3\\
+\hline
+mm & choice & Lang videregående uddannelse & 0.58 & 0.02 & 3.46 & 0.00 & Opgave nr. 3\\
+\hline
+mm & choice & Arbejdsløs & 0.34 & 0.03 & -5.14 & 0.00 & Opgave nr. 3\\
+\hline
+mm & choice & Tjener & 0.50 & 0.03 & 0.13 & 0.89 & Opgave nr. 3\\
+\hline
+mm & choice & Kok & 0.52 & 0.03 & 0.61 & 0.54 & Opgave nr. 3\\
+\hline
+mm & choice & Mekaniker & 0.50 & 0.03 & -0.07 & 0.95 & Opgave nr. 3\\
+\hline
+mm & choice & Butiksassistent & 0.48 & 0.03 & -0.46 & 0.64 & Opgave nr. 3\\
+\hline
+mm & choice & Salgskonsulent & 0.44 & 0.03 & -1.89 & 0.06 & Opgave nr. 3\\
+\hline
+mm & choice & Regnskabsmedarbejder & 0.50 & 0.04 & -0.07 & 0.94 & Opgave nr. 3\\
+\hline
+mm & choice & It-medarbejder & 0.59 & 0.04 & 2.44 & 0.01 & Opgave nr. 3\\
+\hline
+mm & choice & Analytiker & 0.58 & 0.03 & 2.43 & 0.02 & Opgave nr. 3\\
+\hline
+mm & choice & Ingeniør & 0.70 & 0.08 & 2.46 & 0.01 & Opgave nr. 3\\
+\hline
+mm & choice & Læge & 0.72 & 0.07 & 3.02 & 0.00 & Opgave nr. 3\\
+\hline
+mm & choice & Taler og forstår ikke engelsk & 0.35 & 0.02 & -7.00 & 0.00 & Opgave nr. 3\\
+\hline
+mm & choice & Forstår, men taler ikke engelsk & 0.45 & 0.02 & -2.05 & 0.04 & Opgave nr. 3\\
+\hline
+mm & choice & Kan føre en samtale på engelsk & 0.56 & 0.02 & 2.79 & 0.01 & Opgave nr. 3\\
+\hline
+mm & choice & Taler flydende engelsk & 0.63 & 0.02 & 6.25 & 0.00 & Opgave nr. 3\\
+\hline
+mm & choice & Polen & 0.55 & 0.03 & 1.61 & 0.11 & Opgave nr. 3\\
+\hline
+mm & choice & Tyskland & 0.57 & 0.03 & 2.28 & 0.02 & Opgave nr. 3\\
+\hline
+mm & choice & Somalia & 0.40 & 0.03 & -3.57 & 0.00 & Opgave nr. 3\\
+\hline
+mm & choice & Kina & 0.56 & 0.03 & 1.87 & 0.06 & Opgave nr. 3\\
+\hline
+mm & choice & Syrien & 0.49 & 0.03 & -0.25 & 0.80 & Opgave nr. 3\\
+\hline
+mm & choice & Tyrkiet & 0.50 & 0.03 & 0.17 & 0.87 & Opgave nr. 3\\
+\hline
+mm & choice & Irak & 0.44 & 0.03 & -2.10 & 0.04 & Opgave nr. 3\\
+\hline
+mm & choice & Ikke troende & 0.55 & 0.02 & 2.31 & 0.02 & Opgave nr. 3\\
+\hline
+mm & choice & Muslim & 0.39 & 0.02 & -5.76 & 0.00 & Opgave nr. 3\\
+\hline
+mm & choice & Kristen & 0.57 & 0.02 & 3.61 & 0.00 & Opgave nr. 3\\
+\hline
+mm & choice & Mand & 0.47 & 0.02 & -2.08 & 0.04 & Opgave nr. 4\\
+\hline
+mm & choice & Kvinde & 0.53 & 0.02 & 2.10 & 0.04 & Opgave nr. 4\\
+\hline
+mm & choice & 25 år & 0.51 & 0.03 & 0.41 & 0.68 & Opgave nr. 4\\
+\hline
+mm & choice & 31 år & 0.51 & 0.03 & 0.40 & 0.69 & Opgave nr. 4\\
+\hline
+mm & choice & 37 år & 0.54 & 0.02 & 1.47 & 0.14 & Opgave nr. 4\\
+\hline
+mm & choice & 43 år & 0.50 & 0.02 & -0.05 & 0.96 & Opgave nr. 4\\
+\hline
+mm & choice & 55 år & 0.44 & 0.02 & -2.27 & 0.02 & Opgave nr. 4\\
+\hline
+mm & choice & Ingen formel uddannelse & 0.35 & 0.03 & -4.72 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Grundskole & 0.41 & 0.03 & -3.28 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Gymnasial uddannelse & 0.48 & 0.03 & -0.79 & 0.43 & Opgave nr. 4\\
+\hline
+mm & choice & Erhvervsfaglig uddannelse & 0.55 & 0.03 & 1.75 & 0.08 & Opgave nr. 4\\
+\hline
+mm & choice & Kort videregående uddannelse & 0.52 & 0.03 & 0.86 & 0.39 & Opgave nr. 4\\
+\hline
+mm & choice & Lang videregående uddannelse & 0.61 & 0.02 & 4.59 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Arbejdsløs & 0.31 & 0.03 & -6.08 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Tjener & 0.48 & 0.03 & -0.65 & 0.52 & Opgave nr. 4\\
+\hline
+mm & choice & Kok & 0.56 & 0.03 & 1.85 & 0.06 & Opgave nr. 4\\
+\hline
+mm & choice & Mekaniker & 0.47 & 0.03 & -0.82 & 0.41 & Opgave nr. 4\\
+\hline
+mm & choice & Butiksassistent & 0.49 & 0.04 & -0.28 & 0.78 & Opgave nr. 4\\
+\hline
+mm & choice & Salgskonsulent & 0.44 & 0.03 & -1.90 & 0.06 & Opgave nr. 4\\
+\hline
+mm & choice & Regnskabsmedarbejder & 0.56 & 0.03 & 1.61 & 0.11 & Opgave nr. 4\\
+\hline
+mm & choice & It-medarbejder & 0.57 & 0.04 & 1.97 & 0.05 & Opgave nr. 4\\
+\hline
+mm & choice & Analytiker & 0.57 & 0.04 & 1.97 & 0.05 & Opgave nr. 4\\
+\hline
+mm & choice & Ingeniør & 0.65 & 0.07 & 2.25 & 0.02 & Opgave nr. 4\\
+\hline
+mm & choice & Læge & 0.82 & 0.07 & 4.95 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Taler og forstår ikke engelsk & 0.35 & 0.02 & -6.97 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Forstår, men taler ikke engelsk & 0.44 & 0.02 & -2.84 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Kan føre en samtale på engelsk & 0.58 & 0.02 & 3.45 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Taler flydende engelsk & 0.64 & 0.02 & 6.47 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Polen & 0.51 & 0.03 & 0.36 & 0.72 & Opgave nr. 4\\
+\hline
+mm & choice & Tyskland & 0.59 & 0.03 & 3.05 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Somalia & 0.37 & 0.03 & -4.33 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Kina & 0.52 & 0.03 & 0.58 & 0.56 & Opgave nr. 4\\
+\hline
+mm & choice & Syrien & 0.52 & 0.03 & 0.77 & 0.44 & Opgave nr. 4\\
+\hline
+mm & choice & Tyrkiet & 0.53 & 0.03 & 0.91 & 0.37 & Opgave nr. 4\\
+\hline
+mm & choice & Irak & 0.45 & 0.03 & -1.63 & 0.10 & Opgave nr. 4\\
+\hline
+mm & choice & Ikke troende & 0.56 & 0.02 & 3.15 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Muslim & 0.39 & 0.02 & -5.66 & 0.00 & Opgave nr. 4\\
+\hline
+mm & choice & Kristen & 0.55 & 0.02 & 2.38 & 0.02 & Opgave nr. 4\\
+\hline
+mm & choice & Mand & 0.46 & 0.02 & -2.78 & 0.01 & Opgave nr. 5\\
+\hline
+mm & choice & Kvinde & 0.54 & 0.02 & 2.68 & 0.01 & Opgave nr. 5\\
+\hline
+mm & choice & 25 år & 0.53 & 0.02 & 1.14 & 0.25 & Opgave nr. 5\\
+\hline
+mm & choice & 31 år & 0.50 & 0.03 & 0.10 & 0.92 & Opgave nr. 5\\
+\hline
+mm & choice & 37 år & 0.49 & 0.02 & -0.49 & 0.62 & Opgave nr. 5\\
+\hline
+mm & choice & 43 år & 0.55 & 0.02 & 1.96 & 0.05 & Opgave nr. 5\\
+\hline
+mm & choice & 55 år & 0.43 & 0.03 & -2.90 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Ingen formel uddannelse & 0.40 & 0.03 & -2.80 & 0.01 & Opgave nr. 5\\
+\hline
+mm & choice & Grundskole & 0.44 & 0.03 & -2.07 & 0.04 & Opgave nr. 5\\
+\hline
+mm & choice & Gymnasial uddannelse & 0.49 & 0.03 & -0.33 & 0.74 & Opgave nr. 5\\
+\hline
+mm & choice & Erhvervsfaglig uddannelse & 0.51 & 0.03 & 0.44 & 0.66 & Opgave nr. 5\\
+\hline
+mm & choice & Kort videregående uddannelse & 0.48 & 0.03 & -0.84 & 0.40 & Opgave nr. 5\\
+\hline
+mm & choice & Lang videregående uddannelse & 0.60 & 0.02 & 4.39 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Arbejdsløs & 0.35 & 0.03 & -4.47 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Tjener & 0.46 & 0.03 & -1.23 & 0.22 & Opgave nr. 5\\
+\hline
+mm & choice & Kok & 0.52 & 0.03 & 0.52 & 0.60 & Opgave nr. 5\\
+\hline
+mm & choice & Mekaniker & 0.53 & 0.03 & 0.83 & 0.41 & Opgave nr. 5\\
+\hline
+mm & choice & Butiksassistent & 0.40 & 0.03 & -2.97 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Salgskonsulent & 0.52 & 0.03 & 0.58 & 0.56 & Opgave nr. 5\\
+\hline
+mm & choice & Regnskabsmedarbejder & 0.53 & 0.04 & 0.80 & 0.43 & Opgave nr. 5\\
+\hline
+mm & choice & It-medarbejder & 0.60 & 0.03 & 2.86 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Analytiker & 0.52 & 0.04 & 0.64 & 0.52 & Opgave nr. 5\\
+\hline
+mm & choice & Ingeniør & 0.64 & 0.08 & 1.73 & 0.08 & Opgave nr. 5\\
+\hline
+mm & choice & Læge & 0.76 & 0.07 & 3.82 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Taler og forstår ikke engelsk & 0.37 & 0.02 & -6.19 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Forstår, men taler ikke engelsk & 0.42 & 0.02 & -3.37 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Kan føre en samtale på engelsk & 0.58 & 0.02 & 3.42 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Taler flydende engelsk & 0.63 & 0.02 & 6.21 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Polen & 0.55 & 0.03 & 1.55 & 0.12 & Opgave nr. 5\\
+\hline
+mm & choice & Tyskland & 0.63 & 0.03 & 4.49 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Somalia & 0.33 & 0.03 & -5.99 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Kina & 0.56 & 0.03 & 1.90 & 0.06 & Opgave nr. 5\\
+\hline
+mm & choice & Syrien & 0.49 & 0.03 & -0.34 & 0.73 & Opgave nr. 5\\
+\hline
+mm & choice & Tyrkiet & 0.47 & 0.03 & -1.17 & 0.24 & Opgave nr. 5\\
+\hline
+mm & choice & Irak & 0.48 & 0.03 & -0.67 & 0.50 & Opgave nr. 5\\
+\hline
+mm & choice & Ikke troende & 0.54 & 0.02 & 2.01 & 0.04 & Opgave nr. 5\\
+\hline
+mm & choice & Muslim & 0.42 & 0.02 & -4.41 & 0.00 & Opgave nr. 5\\
+\hline
+mm & choice & Kristen & 0.55 & 0.02 & 2.34 & 0.02 & Opgave nr. 5\\
+\hline
+\end{tabular}

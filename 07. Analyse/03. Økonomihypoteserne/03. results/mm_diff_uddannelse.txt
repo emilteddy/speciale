@@ -1,0 +1,18 @@
+
+\begin{tabular}{l|l|l|l|l|r|r|r|r|r|r|l}
+\hline
+BY & statistic & outcome & feature & level & estimate & std.error & z & p & lower & upper & udd\\
+\hline
+1 - 0 & mm\_difference & choice & Uddannelse & Ingen formel uddannelse & -0.02 & 0.05 & -0.40 & 0.69 & 0.08 & -0.12 & 1\\
+\hline
+1 - 0 & mm\_difference & choice & Uddannelse & Grundskole & 0.01 & 0.04 & 0.23 & 0.82 & 0.10 & -0.08 & 1\\
+\hline
+1 - 0 & mm\_difference & choice & Uddannelse & Gymnasial uddannelse & -0.05 & 0.04 & -1.14 & 0.25 & 0.03 & -0.13 & 1\\
+\hline
+1 - 0 & mm\_difference & choice & Uddannelse & Erhvervsfaglig uddannelse & -0.03 & 0.04 & -0.63 & 0.53 & 0.06 & -0.11 & 1\\
+\hline
+1 - 0 & mm\_difference & choice & Uddannelse & Kort videregående uddannelse & 0.05 & 0.04 & 1.15 & 0.25 & 0.13 & -0.03 & 1\\
+\hline
+1 - 0 & mm\_difference & choice & Uddannelse & Lang videregående uddannelse & 0.04 & 0.04 & 0.95 & 0.34 & 0.11 & -0.04 & 1\\
+\hline
+\end{tabular}

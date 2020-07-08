@@ -1,0 +1,12 @@
+
+\begin{tabular}{l|r|r|l}
+\hline
+resp\_eksperiment & n & andel & feature\\
+\hline
+Kontrolmåling & 10000 & 50.0 & Primingeksperiment\\
+\hline
+Økonomisk trussel & 5140 & 25.7 & Primingeksperiment\\
+\hline
+Kulturel trussel & 4860 & 24.3 & Primingeksperiment\\
+\hline
+\end{tabular}

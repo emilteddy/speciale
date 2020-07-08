@@ -1,0 +1,12 @@
+
+\begin{tabular}{l|l|l|l|r|r|r|r|r|r}
+\hline
+outcome & statistic & feature & level & estimate & std.error & z & p & lower & upper\\
+\hline
+choice & amce & Religion & Ikke troende & 0.00 & NA & NA & NA & NA & NA\\
+\hline
+choice & amce & Religion & Kristen & 0.00 & 0.01 & 0.03 & 0.98 & -0.02 & 0.02\\
+\hline
+choice & amce & Religion & Muslim & -0.16 & 0.01 & -13.42 & 0.00 & -0.19 & -0.14\\
+\hline
+\end{tabular}

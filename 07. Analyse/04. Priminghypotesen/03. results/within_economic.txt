@@ -1,0 +1,40 @@
+
+\begin{tabular}{l|l|l|r|r|r|r|l}
+\hline
+statistic & outcome & level & estimate & std.error & z & p & BY\\
+\hline
+mm\_difference & choice & Ingen formel uddannelse & -0.01 & 0.03 & -0.32 & 0.75 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Grundskole & -0.02 & 0.02 & -0.79 & 0.43 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Gymnasial uddannelse & 0.00 & 0.02 & 0.16 & 0.87 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Erhvervsfaglig uddannelse & 0.00 & 0.02 & 0.12 & 0.91 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Kort videregående uddannelse & 0.04 & 0.02 & 1.70 & 0.09 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Lang videregående uddannelse & -0.01 & 0.02 & -0.36 & 0.72 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Arbejdsløs & 0.02 & 0.03 & 0.74 & 0.46 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Tjener & -0.02 & 0.03 & -0.56 & 0.58 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Kok & -0.04 & 0.03 & -1.36 & 0.17 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Mekaniker & 0.02 & 0.03 & 0.57 & 0.57 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Butiksassistent & 0.00 & 0.03 & 0.16 & 0.87 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Salgskonsulent & 0.03 & 0.03 & 1.12 & 0.26 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Regnskabsmedarbejder & 0.01 & 0.03 & 0.17 & 0.86 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & It-medarbejder & -0.05 & 0.03 & -1.48 & 0.14 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Analytiker & 0.02 & 0.03 & 0.47 & 0.64 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Ingeniør & -0.01 & 0.07 & -0.08 & 0.94 & Økonomisk trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Læge & -0.01 & 0.06 & -0.15 & 0.88 & Økonomisk trussel - Kontrolmåling\\
+\hline
+\end{tabular}

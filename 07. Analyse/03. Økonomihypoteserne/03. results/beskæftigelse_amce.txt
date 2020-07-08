@@ -1,0 +1,28 @@
+
+\begin{tabular}{l|l|l|l|r|r|r|r|r|r}
+\hline
+outcome & statistic & feature & level & estimate & std.error & z & p & lower & upper\\
+\hline
+choice & amce & Tidligere beskæftigelse & Arbejdsløs & 0.00 & NA & NA & NA & NA & NA\\
+\hline
+choice & amce & Tidligere beskæftigelse & Butiksassistent & 0.14 & 0.02 & 6.69 & 0 & 0.10 & 0.17\\
+\hline
+choice & amce & Tidligere beskæftigelse & Salgskonsulent & 0.14 & 0.02 & 6.98 & 0 & 0.11 & 0.17\\
+\hline
+choice & amce & Tidligere beskæftigelse & Tjener & 0.14 & 0.02 & 7.11 & 0 & 0.11 & 0.17\\
+\hline
+choice & amce & Tidligere beskæftigelse & Mekaniker & 0.18 & 0.02 & 9.28 & 0 & 0.15 & 0.22\\
+\hline
+choice & amce & Tidligere beskæftigelse & Kok & 0.20 & 0.02 & 9.97 & 0 & 0.17 & 0.23\\
+\hline
+choice & amce & Tidligere beskæftigelse & Regnskabsmedarbejder & 0.18 & 0.02 & 8.13 & 0 & 0.14 & 0.21\\
+\hline
+choice & amce & Tidligere beskæftigelse & Analytiker & 0.21 & 0.02 & 9.67 & 0 & 0.17 & 0.24\\
+\hline
+choice & amce & Tidligere beskæftigelse & It-medarbejder & 0.23 & 0.02 & 10.43 & 0 & 0.19 & 0.26\\
+\hline
+choice & amce & Tidligere beskæftigelse & Ingeniør & 0.25 & 0.05 & 5.22 & 0 & 0.17 & 0.33\\
+\hline
+choice & amce & Tidligere beskæftigelse & Læge & 0.36 & 0.05 & 7.23 & 0 & 0.28 & 0.45\\
+\hline
+\end{tabular}

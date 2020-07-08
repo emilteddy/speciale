@@ -1,0 +1,82 @@
+
+\begin{tabular}{l|l|l|r|r|r|r|l}
+\hline
+statistic & outcome & level & estimate & std.error & z & p & BY\\
+\hline
+mm\_difference & choice & Mand & -0.01 & 0.01 & -0.55 & 0.58 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Kvinde & 0.01 & 0.01 & 0.60 & 0.55 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & 25 år & 0.01 & 0.02 & 0.40 & 0.69 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & 31 år & -0.03 & 0.02 & -1.12 & 0.26 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & 37 år & 0.00 & 0.02 & -0.01 & 1.00 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & 43 år & 0.02 & 0.02 & 0.76 & 0.45 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & 55 år & 0.00 & 0.02 & 0.04 & 0.97 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Ingen formel uddannelse & -0.02 & 0.03 & -0.84 & 0.40 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Grundskole & -0.02 & 0.02 & -0.72 & 0.47 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Gymnasial uddannelse & 0.01 & 0.02 & 0.23 & 0.82 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Erhvervsfaglig uddannelse & 0.00 & 0.02 & 0.03 & 0.98 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Kort videregående uddannelse & 0.03 & 0.02 & 1.26 & 0.21 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Lang videregående uddannelse & 0.01 & 0.02 & 0.33 & 0.74 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Arbejdsløs & -0.01 & 0.03 & -0.20 & 0.84 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Tjener & 0.01 & 0.03 & 0.23 & 0.82 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Kok & -0.03 & 0.03 & -1.11 & 0.27 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Mekaniker & 0.02 & 0.03 & 0.53 & 0.60 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Butiksassistent & -0.03 & 0.03 & -0.91 & 0.36 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Salgskonsulent & 0.02 & 0.03 & 0.57 & 0.57 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Regnskabsmedarbejder & -0.04 & 0.03 & -1.18 & 0.24 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & It-medarbejder & -0.03 & 0.03 & -1.03 & 0.30 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Analytiker & 0.09 & 0.03 & 2.71 & 0.01 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Ingeniør & 0.08 & 0.07 & 1.20 & 0.23 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Læge & -0.04 & 0.06 & -0.66 & 0.51 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Taler og forstår ikke engelsk & -0.03 & 0.02 & -1.74 & 0.08 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Forstår, men taler ikke engelsk & 0.01 & 0.02 & 0.39 & 0.69 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Kan føre en samtale på engelsk & 0.00 & 0.02 & 0.10 & 0.92 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Taler flydende engelsk & 0.01 & 0.02 & 0.77 & 0.44 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Polen & 0.01 & 0.03 & 0.50 & 0.62 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Tyskland & 0.02 & 0.03 & 0.90 & 0.37 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Somalia & 0.01 & 0.03 & 0.24 & 0.81 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Kina & 0.01 & 0.03 & 0.52 & 0.60 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Syrien & -0.02 & 0.03 & -0.65 & 0.51 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Tyrkiet & -0.02 & 0.03 & -0.76 & 0.45 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Irak & -0.03 & 0.03 & -1.19 & 0.23 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Ikke troende & -0.02 & 0.02 & -0.87 & 0.38 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Muslim & 0.01 & 0.02 & 0.78 & 0.44 & Økonomisk trussel - Kulturel trussel\\
+\hline
+mm\_difference & choice & Kristen & 0.01 & 0.02 & 0.36 & 0.72 & Økonomisk trussel - Kulturel trussel\\
+\hline
+\end{tabular}

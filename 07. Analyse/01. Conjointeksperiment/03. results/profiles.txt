@@ -1,0 +1,16 @@
+
+\begin{tabular}{r|l|l|l|l|l|l|l|r|r}
+\hline
+percentiles & køn & alder & uddannelse & beskæftigelse & sprog & land & religion & fit.fit & se.fit\\
+\hline
+1 & Mand & 37 år & Grundskole & Arbejdsløs & Taler og forstår ikke engelsk & Tyrkiet & Muslim & 0.06 & 0.04\\
+\hline
+25 & Mand & 55 år & Ingen formel uddannelse & Butiksassistent & Taler flydende engelsk & Somalia & Kristen & 0.38 & 0.04\\
+\hline
+50 & Kvinde & 37 år & Kort videregående uddannelse & Tjener & Forstår, men taler ikke engelsk & Kina & Ikke troende & 0.50 & 0.04\\
+\hline
+75 & Kvinde & 43 år & Grundskole & It-medarbejder & Forstår, men taler ikke engelsk & Polen & Kristen & 0.63 & 0.04\\
+\hline
+99 & Mand & 25 år & Lang videregående uddannelse & Læge & Kan føre en samtale på engelsk & Syrien & Kristen & 0.87 & 0.04\\
+\hline
+\end{tabular}

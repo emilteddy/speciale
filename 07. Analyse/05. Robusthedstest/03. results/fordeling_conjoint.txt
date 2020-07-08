@@ -1,0 +1,158 @@
+
+\begin{tabular}{r|r|r|l|l}
+\hline
+priming & n & andel & feature & level\\
+\hline
+0 & 4950 & 49.50 & Køn & Mand\\
+\hline
+0 & 5050 & 50.50 & Køn & Kvinde\\
+\hline
+1 & 4988 & 49.88 & Køn & Mand\\
+\hline
+1 & 5012 & 50.12 & Køn & Kvinde\\
+\hline
+0 & 2044 & 20.44 & Alder & 25 år\\
+\hline
+0 & 2005 & 20.05 & Alder & 31 år\\
+\hline
+0 & 2010 & 20.10 & Alder & 37 år\\
+\hline
+0 & 1991 & 19.91 & Alder & 43 år\\
+\hline
+0 & 1950 & 19.50 & Alder & 55 år\\
+\hline
+1 & 1974 & 19.74 & Alder & 25 år\\
+\hline
+1 & 1957 & 19.57 & Alder & 31 år\\
+\hline
+1 & 2044 & 20.44 & Alder & 37 år\\
+\hline
+1 & 2008 & 20.08 & Alder & 43 år\\
+\hline
+1 & 2017 & 20.17 & Alder & 55 år\\
+\hline
+0 & 1141 & 11.41 & Uddannelse & Ingen formel uddannelse\\
+\hline
+0 & 1568 & 15.68 & Uddannelse & Grundskole\\
+\hline
+0 & 1735 & 17.35 & Uddannelse & Gymnasial uddannelse\\
+\hline
+0 & 1741 & 17.41 & Uddannelse & Erhvervsfaglig uddannelse\\
+\hline
+0 & 1774 & 17.74 & Uddannelse & Kort videregående uddannelse\\
+\hline
+0 & 2041 & 20.41 & Uddannelse & Lang videregående uddannelse\\
+\hline
+1 & 1127 & 11.27 & Uddannelse & Ingen formel uddannelse\\
+\hline
+1 & 1762 & 17.62 & Uddannelse & Grundskole\\
+\hline
+1 & 1669 & 16.69 & Uddannelse & Gymnasial uddannelse\\
+\hline
+1 & 1750 & 17.50 & Uddannelse & Erhvervsfaglig uddannelse\\
+\hline
+1 & 1710 & 17.10 & Uddannelse & Kort videregående uddannelse\\
+\hline
+1 & 1982 & 19.82 & Uddannelse & Lang videregående uddannelse\\
+\hline
+0 & 1093 & 10.93 & Tidligere beskæftigelse & Arbejdsløs\\
+\hline
+0 & 1186 & 11.86 & Tidligere beskæftigelse & Tjener\\
+\hline
+0 & 1128 & 11.28 & Tidligere beskæftigelse & Kok\\
+\hline
+0 & 1131 & 11.31 & Tidligere beskæftigelse & Mekaniker\\
+\hline
+0 & 1063 & 10.63 & Tidligere beskæftigelse & Butiksassistent\\
+\hline
+0 & 1144 & 11.44 & Tidligere beskæftigelse & Salgskonsulent\\
+\hline
+0 & 980 & 9.80 & Tidligere beskæftigelse & Regnskabsmedarbejder\\
+\hline
+0 & 938 & 9.38 & Tidligere beskæftigelse & It-medarbejder\\
+\hline
+0 & 975 & 9.75 & Tidligere beskæftigelse & Analytiker\\
+\hline
+0 & 193 & 1.93 & Tidligere beskæftigelse & Ingeniør\\
+\hline
+0 & 169 & 1.69 & Tidligere beskæftigelse & Læge\\
+\hline
+1 & 1168 & 11.68 & Tidligere beskæftigelse & Arbejdsløs\\
+\hline
+1 & 1089 & 10.89 & Tidligere beskæftigelse & Tjener\\
+\hline
+1 & 1107 & 11.07 & Tidligere beskæftigelse & Kok\\
+\hline
+1 & 1171 & 11.71 & Tidligere beskæftigelse & Mekaniker\\
+\hline
+1 & 1121 & 11.21 & Tidligere beskæftigelse & Butiksassistent\\
+\hline
+1 & 1157 & 11.57 & Tidligere beskæftigelse & Salgskonsulent\\
+\hline
+1 & 926 & 9.26 & Tidligere beskæftigelse & Regnskabsmedarbejder\\
+\hline
+1 & 972 & 9.72 & Tidligere beskæftigelse & It-medarbejder\\
+\hline
+1 & 914 & 9.14 & Tidligere beskæftigelse & Analytiker\\
+\hline
+1 & 191 & 1.91 & Tidligere beskæftigelse & Ingeniør\\
+\hline
+1 & 184 & 1.84 & Tidligere beskæftigelse & Læge\\
+\hline
+0 & 2554 & 25.54 & Engelskkundskaber & Taler og forstår ikke engelsk\\
+\hline
+0 & 2486 & 24.86 & Engelskkundskaber & Forstår, men taler ikke engelsk\\
+\hline
+0 & 2464 & 24.64 & Engelskkundskaber & Kan føre en samtale på engelsk\\
+\hline
+0 & 2496 & 24.96 & Engelskkundskaber & Taler flydende engelsk\\
+\hline
+1 & 2384 & 23.84 & Engelskkundskaber & Taler og forstår ikke engelsk\\
+\hline
+1 & 2570 & 25.70 & Engelskkundskaber & Forstår, men taler ikke engelsk\\
+\hline
+1 & 2523 & 25.23 & Engelskkundskaber & Kan føre en samtale på engelsk\\
+\hline
+1 & 2523 & 25.23 & Engelskkundskaber & Taler flydende engelsk\\
+\hline
+0 & 1382 & 13.82 & Oprindelsesland & Polen\\
+\hline
+0 & 1458 & 14.58 & Oprindelsesland & Tyskland\\
+\hline
+0 & 1388 & 13.88 & Oprindelsesland & Somalia\\
+\hline
+0 & 1445 & 14.45 & Oprindelsesland & Kina\\
+\hline
+0 & 1449 & 14.49 & Oprindelsesland & Syrien\\
+\hline
+0 & 1437 & 14.37 & Oprindelsesland & Tyrkiet\\
+\hline
+0 & 1441 & 14.41 & Oprindelsesland & Irak\\
+\hline
+1 & 1386 & 13.86 & Oprindelsesland & Polen\\
+\hline
+1 & 1445 & 14.45 & Oprindelsesland & Tyskland\\
+\hline
+1 & 1448 & 14.48 & Oprindelsesland & Somalia\\
+\hline
+1 & 1416 & 14.16 & Oprindelsesland & Kina\\
+\hline
+1 & 1434 & 14.34 & Oprindelsesland & Syrien\\
+\hline
+1 & 1414 & 14.14 & Oprindelsesland & Tyrkiet\\
+\hline
+1 & 1457 & 14.57 & Oprindelsesland & Irak\\
+\hline
+0 & 3278 & 32.78 & Religion & Ikke troende\\
+\hline
+0 & 3368 & 33.68 & Religion & Muslim\\
+\hline
+0 & 3354 & 33.54 & Religion & Kristen\\
+\hline
+1 & 3314 & 33.14 & Religion & Ikke troende\\
+\hline
+1 & 3294 & 32.94 & Religion & Muslim\\
+\hline
+1 & 3392 & 33.92 & Religion & Kristen\\
+\hline
+\end{tabular}

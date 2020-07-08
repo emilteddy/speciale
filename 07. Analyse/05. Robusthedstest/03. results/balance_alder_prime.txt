@@ -1,0 +1,10 @@
+
+\begin{tabular}{l|r|r|r|l}
+\hline
+resp\_eksperiment & fit & lwr & upr & feature\\
+\hline
+Kulturel trussel & 47.31 & 45.78 & 48.84 & Eksperimentel situation\\
+\hline
+Økonomisk trussel & 46.84 & 45.35 & 48.33 & Eksperimentel situation\\
+\hline
+\end{tabular}

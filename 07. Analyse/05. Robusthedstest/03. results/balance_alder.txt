@@ -1,0 +1,82 @@
+
+\begin{tabular}{l|l|l|l|r|r|r|r|r|r}
+\hline
+outcome & statistic & feature & level & estimate & std.error & z & p & lower & upper\\
+\hline
+resp\_alder\_num & mm & Køn & Mand & 47.14 & 0.25 & 0.28 & 0.78 & 46.66 & 47.62\\
+\hline
+resp\_alder\_num & mm & Køn & Kvinde & 47.00 & 0.24 & -0.29 & 0.78 & 46.53 & 47.47\\
+\hline
+resp\_alder\_num & mm & Alder & 25 år & 47.16 & 0.38 & 0.26 & 0.80 & 46.42 & 47.91\\
+\hline
+resp\_alder\_num & mm & Alder & 31 år & 47.19 & 0.39 & 0.31 & 0.76 & 46.43 & 47.95\\
+\hline
+resp\_alder\_num & mm & Alder & 37 år & 47.04 & 0.38 & -0.07 & 0.94 & 46.29 & 47.79\\
+\hline
+resp\_alder\_num & mm & Alder & 43 år & 46.84 & 0.39 & -0.58 & 0.56 & 46.09 & 47.60\\
+\hline
+resp\_alder\_num & mm & Alder & 55 år & 47.10 & 0.38 & 0.08 & 0.93 & 46.35 & 47.85\\
+\hline
+resp\_alder\_num & mm & Uddannelse & Ingen formel uddannelse & 46.65 & 0.52 & -0.81 & 0.42 & 45.63 & 47.67\\
+\hline
+resp\_alder\_num & mm & Uddannelse & Grundskole & 47.62 & 0.43 & 1.29 & 0.20 & 46.78 & 48.45\\
+\hline
+resp\_alder\_num & mm & Uddannelse & Gymnasial uddannelse & 47.31 & 0.42 & 0.58 & 0.57 & 46.49 & 48.12\\
+\hline
+resp\_alder\_num & mm & Uddannelse & Erhvervsfaglig uddannelse & 47.30 & 0.42 & 0.56 & 0.58 & 46.49 & 48.11\\
+\hline
+resp\_alder\_num & mm & Uddannelse & Kort videregående uddannelse & 47.17 & 0.41 & 0.25 & 0.81 & 46.37 & 47.97\\
+\hline
+resp\_alder\_num & mm & Uddannelse & Lang videregående uddannelse & 46.39 & 0.37 & -1.81 & 0.07 & 45.66 & 47.12\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & Arbejdsløs & 46.51 & 0.53 & -1.05 & 0.29 & 45.47 & 47.55\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & Tjener & 47.02 & 0.49 & -0.10 & 0.92 & 46.05 & 47.99\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & Kok & 46.84 & 0.51 & -0.45 & 0.66 & 45.84 & 47.84\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & Mekaniker & 46.51 & 0.51 & -1.11 & 0.27 & 45.52 & 47.50\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & Butiksassistent & 46.86 & 0.53 & -0.40 & 0.69 & 45.82 & 47.90\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & Salgskonsulent & 47.47 & 0.50 & 0.81 & 0.42 & 46.49 & 48.46\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & Regnskabsmedarbejder & 47.39 & 0.55 & 0.59 & 0.56 & 46.31 & 48.48\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & It-medarbejder & 48.39 & 0.57 & 2.33 & 0.02 & 47.28 & 49.50\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & Analytiker & 47.03 & 0.55 & -0.06 & 0.95 & 45.95 & 48.12\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & Ingeniør & 46.55 & 1.17 & -0.44 & 0.66 & 44.25 & 48.85\\
+\hline
+resp\_alder\_num & mm & Tidligere beskæftigelse & Læge & 46.45 & 1.30 & -0.48 & 0.63 & 43.90 & 49.00\\
+\hline
+resp\_alder\_num & mm & Engelskkundskaber & Taler og forstår ikke engelsk & 46.74 & 0.34 & -0.96 & 0.34 & 46.07 & 47.41\\
+\hline
+resp\_alder\_num & mm & Engelskkundskaber & Forstår, men taler ikke engelsk & 46.98 & 0.34 & -0.27 & 0.79 & 46.31 & 47.64\\
+\hline
+resp\_alder\_num & mm & Engelskkundskaber & Kan føre en samtale på engelsk & 47.18 & 0.34 & 0.32 & 0.75 & 46.51 & 47.85\\
+\hline
+resp\_alder\_num & mm & Engelskkundskaber & Taler flydende engelsk & 47.39 & 0.35 & 0.91 & 0.36 & 46.70 & 48.07\\
+\hline
+resp\_alder\_num & mm & Oprindelsesland & Polen & 47.20 & 0.47 & 0.28 & 0.78 & 46.28 & 48.11\\
+\hline
+resp\_alder\_num & mm & Oprindelsesland & Tyskland & 47.87 & 0.45 & 1.78 & 0.08 & 46.99 & 48.76\\
+\hline
+resp\_alder\_num & mm & Oprindelsesland & Somalia & 46.15 & 0.46 & -2.00 & 0.05 & 45.25 & 47.05\\
+\hline
+resp\_alder\_num & mm & Oprindelsesland & Kina & 47.04 & 0.44 & -0.06 & 0.95 & 46.17 & 47.91\\
+\hline
+resp\_alder\_num & mm & Oprindelsesland & Syrien & 47.34 & 0.46 & 0.60 & 0.55 & 46.45 & 48.23\\
+\hline
+resp\_alder\_num & mm & Oprindelsesland & Tyrkiet & 46.98 & 0.45 & -0.19 & 0.85 & 46.09 & 47.87\\
+\hline
+resp\_alder\_num & mm & Oprindelsesland & Irak & 46.86 & 0.45 & -0.47 & 0.64 & 45.97 & 47.74\\
+\hline
+resp\_alder\_num & mm & Religion & Ikke troende & 46.51 & 0.30 & -1.89 & 0.06 & 45.92 & 47.09\\
+\hline
+resp\_alder\_num & mm & Religion & Muslim & 47.23 & 0.30 & 0.54 & 0.59 & 46.64 & 47.81\\
+\hline
+resp\_alder\_num & mm & Religion & Kristen & 47.46 & 0.30 & 1.31 & 0.19 & 46.87 & 48.04\\
+\hline
+\end{tabular}

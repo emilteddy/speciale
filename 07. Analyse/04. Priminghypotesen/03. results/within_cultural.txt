@@ -1,0 +1,26 @@
+
+\begin{tabular}{l|l|l|r|r|r|r|l}
+\hline
+statistic & outcome & level & estimate & std.error & z & p & BY\\
+\hline
+mm\_difference & choice & Polen & 0.00 & 0.03 & -0.17 & 0.87 & Kulturel trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Tyskland & 0.00 & 0.03 & -0.07 & 0.94 & Kulturel trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Somalia & 0.06 & 0.03 & 2.45 & 0.01 & Kulturel trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Kina & -0.01 & 0.03 & -0.50 & 0.62 & Kulturel trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Syrien & -0.07 & 0.03 & -2.57 & 0.01 & Kulturel trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Tyrkiet & 0.02 & 0.03 & 0.76 & 0.45 & Kulturel trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Irak & 0.02 & 0.03 & 0.68 & 0.49 & Kulturel trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Ikke troende & 0.01 & 0.02 & 0.49 & 0.62 & Kulturel trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Muslim & -0.01 & 0.02 & -0.37 & 0.71 & Kulturel trussel - Kontrolmåling\\
+\hline
+mm\_difference & choice & Kristen & -0.01 & 0.02 & -0.45 & 0.65 & Kulturel trussel - Kontrolmåling\\
+\hline
+\end{tabular}

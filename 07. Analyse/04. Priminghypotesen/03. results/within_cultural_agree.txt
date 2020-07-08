@@ -1,0 +1,66 @@
+
+\begin{tabular}{l|l|l|r|r|r|r|l|l}
+\hline
+statistic & outcome & level & estimate & std.error & z & p & BY & resp\_eksperiment\\
+\hline
+mm\_difference & choice & Polen & 0.01 & 0.04 & 0.22 & 0.83 & Kulturel trussel - Kontrolmåling & I høj grad\\
+\hline
+mm\_difference & choice & Tyskland & 0.03 & 0.04 & 0.67 & 0.51 & Kulturel trussel - Kontrolmåling & I høj grad\\
+\hline
+mm\_difference & choice & Somalia & 0.08 & 0.04 & 2.06 & 0.04 & Kulturel trussel - Kontrolmåling & I høj grad\\
+\hline
+mm\_difference & choice & Kina & 0.03 & 0.04 & 0.65 & 0.52 & Kulturel trussel - Kontrolmåling & I høj grad\\
+\hline
+mm\_difference & choice & Syrien & -0.07 & 0.04 & -1.65 & 0.10 & Kulturel trussel - Kontrolmåling & I høj grad\\
+\hline
+mm\_difference & choice & Tyrkiet & 0.00 & 0.04 & -0.05 & 0.96 & Kulturel trussel - Kontrolmåling & I høj grad\\
+\hline
+mm\_difference & choice & Irak & -0.07 & 0.04 & -1.69 & 0.09 & Kulturel trussel - Kontrolmåling & I høj grad\\
+\hline
+mm\_difference & choice & Ikke troende & 0.02 & 0.03 & 0.84 & 0.40 & Kulturel trussel - Kontrolmåling & I høj grad\\
+\hline
+mm\_difference & choice & Muslim & -0.02 & 0.03 & -0.59 & 0.56 & Kulturel trussel - Kontrolmåling & I høj grad\\
+\hline
+mm\_difference & choice & Kristen & -0.03 & 0.03 & -1.15 & 0.25 & Kulturel trussel - Kontrolmåling & I høj grad\\
+\hline
+mm\_difference & choice & Polen & -0.03 & 0.04 & -0.64 & 0.52 & Kulturel trussel - Kontrolmåling & I nogen grad\\
+\hline
+mm\_difference & choice & Tyskland & 0.03 & 0.04 & 0.65 & 0.52 & Kulturel trussel - Kontrolmåling & I nogen grad\\
+\hline
+mm\_difference & choice & Somalia & 0.08 & 0.04 & 1.82 & 0.07 & Kulturel trussel - Kontrolmåling & I nogen grad\\
+\hline
+mm\_difference & choice & Kina & -0.08 & 0.04 & -1.78 & 0.08 & Kulturel trussel - Kontrolmåling & I nogen grad\\
+\hline
+mm\_difference & choice & Syrien & -0.05 & 0.04 & -1.20 & 0.23 & Kulturel trussel - Kontrolmåling & I nogen grad\\
+\hline
+mm\_difference & choice & Tyrkiet & 0.02 & 0.04 & 0.50 & 0.62 & Kulturel trussel - Kontrolmåling & I nogen grad\\
+\hline
+mm\_difference & choice & Irak & 0.04 & 0.04 & 1.05 & 0.29 & Kulturel trussel - Kontrolmåling & I nogen grad\\
+\hline
+mm\_difference & choice & Ikke troende & 0.01 & 0.03 & 0.23 & 0.82 & Kulturel trussel - Kontrolmåling & I nogen grad\\
+\hline
+mm\_difference & choice & Muslim & 0.00 & 0.03 & -0.14 & 0.89 & Kulturel trussel - Kontrolmåling & I nogen grad\\
+\hline
+mm\_difference & choice & Kristen & 0.00 & 0.03 & -0.04 & 0.97 & Kulturel trussel - Kontrolmåling & I nogen grad\\
+\hline
+mm\_difference & choice & Polen & 0.01 & 0.06 & 0.14 & 0.89 & Kulturel trussel - Kontrolmåling & I mindre grad eller slet ikke\\
+\hline
+mm\_difference & choice & Tyskland & -0.11 & 0.06 & -1.97 & 0.05 & Kulturel trussel - Kontrolmåling & I mindre grad eller slet ikke\\
+\hline
+mm\_difference & choice & Somalia & 0.00 & 0.06 & 0.01 & 0.99 & Kulturel trussel - Kontrolmåling & I mindre grad eller slet ikke\\
+\hline
+mm\_difference & choice & Kina & 0.03 & 0.06 & 0.44 & 0.66 & Kulturel trussel - Kontrolmåling & I mindre grad eller slet ikke\\
+\hline
+mm\_difference & choice & Syrien & -0.10 & 0.06 & -1.67 & 0.09 & Kulturel trussel - Kontrolmåling & I mindre grad eller slet ikke\\
+\hline
+mm\_difference & choice & Tyrkiet & 0.06 & 0.06 & 1.02 & 0.31 & Kulturel trussel - Kontrolmåling & I mindre grad eller slet ikke\\
+\hline
+mm\_difference & choice & Irak & 0.14 & 0.06 & 2.36 & 0.02 & Kulturel trussel - Kontrolmåling & I mindre grad eller slet ikke\\
+\hline
+mm\_difference & choice & Ikke troende & -0.02 & 0.04 & -0.53 & 0.60 & Kulturel trussel - Kontrolmåling & I mindre grad eller slet ikke\\
+\hline
+mm\_difference & choice & Muslim & -0.01 & 0.04 & -0.13 & 0.90 & Kulturel trussel - Kontrolmåling & I mindre grad eller slet ikke\\
+\hline
+mm\_difference & choice & Kristen & 0.02 & 0.04 & 0.63 & 0.53 & Kulturel trussel - Kontrolmåling & I mindre grad eller slet ikke\\
+\hline
+\end{tabular}
