@@ -1,5 +1,5 @@
 # Døren går op - hvem kommer ind? 
-*Et studie af holdningen til indvandrere i Danmark
+*Et studie af holdningen til indvandrere i Danmark*
 
 The question of immigration has been on the political agenda for decades and several studies have examined immigration attitudes in Denmark. However, the question of preferences for specific immigrants and the influence of economic and cultural characteristics have not yet been subject to systematic scrutiny. As the first of its kind in a Danish setting, this study aims to remedy this lacuna. 
 
