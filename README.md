@@ -1,2 +1,2 @@
-# Kandidat ved Institut for Statskundskab på Københavns Universitet
-Holdningen til indvandrere i Danmark
+# Døren går -- hvem kommer ind? 
+Et studie af holdningen til indvandrere i Danmark
